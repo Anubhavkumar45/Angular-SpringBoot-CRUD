@@ -1,4 +1,4 @@
 # Angular-SpringBoot-CRUD
 Employee Management App
-Frontend- Angular
-Backend- SpringBoot
+- Frontend- Angular
+- Backend- SpringBoot
